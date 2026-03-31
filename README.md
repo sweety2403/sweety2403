@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=00F7FF&center=true&vCenter=true&width=600&lines=🦋HALLOOOWW🦋;⏩+WELCOME+TO+MY+GITHUB)
+![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=00F7FF&center=true&vCenter=true&width=600&lines=🦋 HALLOOOWW 🦋;⏩+WELCOME+TO+MY+GITHUB)
 ## Introduction
 
 Hi! Saya adalah seorang mahasiswi jurusan Teknik Informatika Universitas Papua. Sekarang saya semester 6 
