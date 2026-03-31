@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nature+Lover+🌿;Sunset+Chaser+🌅;Love+Exploring+New+Places+🌍;Enjoy+Life+Outside+🌄&center=true&width=500&height=50">
-</p>
+![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡HELLOOO+I'M+JAKSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
 ## Introduction
 
 Hi! Saya adalah seorang mahasiswi jurusan Teknik Informatika Universitas Papua. Sekarang saya semester 6 
