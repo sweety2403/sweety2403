@@ -1,4 +1,6 @@
-![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub;Exploring+Nature+🌿;Chasing+Sunsets+🌅;Keep+Growing+🚀&center=true&width=500&height=50&duration=3000&pause=1000">
+</p>
 ## Introduction
 
 Hi! Saya adalah seorang mahasiswi jurusan Teknik Informatika Universitas Papua. Sekarang saya semester 6 
