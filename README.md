@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub;Exploring+Nature+🌿;Chasing+Sunsets+🌅;Keep+Growing+🚀&center=true&width=500&height=50&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nature+Lover+🌿;Sunset+Chaser+🌅;Love+Exploring+New+Places+🌍;Enjoy+Life+Outside+🌄&center=true&width=500&height=50">
 </p>
 ## Introduction
 
