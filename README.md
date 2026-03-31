@@ -4,23 +4,24 @@ Hi! Saya adalah seorang mahasiswi jurusan Teknik Informatika Universitas Papua. 
 
 ## 🛠️ Skills & Tech Stack
 
-💻 Bahasa Pemrograman: Java, Phyton
-⚙️ Framework & Library: React
-🗄️ Database: MySQL
-🧰 Tools: Canva, Figma, VSCode
+- 💻 Bahasa Pemrograman: Java, Phyton
+- ⚙️ Framework & Library: React
+- 🗄️ Database: MySQL
+- 🧰 Tools: Canva, Figma, VSCode
 
 ## 🌐 Social Media & Portfolio
-Instagram : https://instagram.com/sweetygabriel
-Tiktok: https://tiktok.com/@sweetieeypie
-🎯 Fun Facts
-☕ Suka kopi
-🌿 Lebih suka menghabiskan waktu di alam
-🌅 Suka menikmati keindahan sunset
-🎵 Suka mendengarkan musik
-☕ Tidak bisa coding tanpa kopi
+- Instagram : https://instagram.com/sweetygabriel
+- Tiktok: https://tiktok.com/@sweetieeypie
+  
+## 🎯 Fun Facts
+- ☕ Suka kopi
+- 🌿 Lebih suka menghabiskan waktu di alam
+- 🌅 Suka menikmati keindahan sunset
+- 🎵 Suka mendengarkan musik
+- ☕ Tidak bisa coding tanpa kopi
+  
 ## 💬 Favorite Quote
-
-"Life is so much better when Jesus is at the center."
+- "Life is so much better when Jesus is at the center."
 
 ## ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJtdGxndDJldTdpbjBtMGowcXgxOGtwOGk1c3EwenIzbTU3cTRibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xhU5q2Sb1kWY/giphy.gif)
 
