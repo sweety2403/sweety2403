@@ -1,3 +1,4 @@
+![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 ## Introduction
 
 Hi! Saya adalah seorang mahasiswi jurusan Teknik Informatika Universitas Papua. Sekarang saya semester 6 
